@@ -1,5 +1,5 @@
 {
-  "name": "mocha-phantomjs",
+  "name": "mocha-phantomjs-papandreou",
   "description": "Run nocha browser tests in phantomjs via the command line",
   "keywords": [
     "phantomjs",
@@ -10,16 +10,11 @@
     "browser"
   ],
   "version": "4.0.2",
-  "author": "Nathan Black <nathan@nathanblack.org> (http://nathanblack.org)",
   "licenses": [
     {
       "type": "MIT",
       "url": "http://github.com/nathanboktae/mocha-phantomjs/blob/master/MIT-LICENSE"
     }
-  ],
-  "contributors": [
-    "Jonathan Chapman <chafnan@gmail.com> (https://github.com/chafnan)",
-    "Ken Collins <ken@metaskills.net> (http://metaskills.net/)"
   ],
   "repository": {
     "type": "git",
